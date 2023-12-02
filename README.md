@@ -1,14 +1,26 @@
 # Audio-Equalizer-using-MATLAB
-This GitHub repository presents a comprehensive solution for audio equalization using MATLAB, an indispensable tool for digital signal processing. The "Audio Equalizer using MATLAB" repository empowers users to fine-tune audio signals with precision, catering to a multitude of applications.
-<br>
-Key Features:
-<br>
-Multi-Band Precision: Tailor your audio with a multi-band equalizer, allowing individual control over specific frequency ranges. Achieve unparalleled sound customization for your projects.
-<br>
-User-Friendly GUI: Accessible for all skill levels, the included MATLAB-based graphical user interface simplifies the equalization process, enabling interactive adjustments.
-<br>
-Real-Time Processing: Apply equalization in real-time to live audio streams or pre-recorded files, enhancing audio quality dynamically.
-<br>
-Versatile Preset Design: Implement various presets like Rock,Techno,Classical adapting them to your specific equalization needs.
-<br>
-Visual Insights: Gain clarity with visual representations of audio signals, frequency responses, and filter settings, empowering users to grasp the impact of adjustments.
+## Overview
+
+This repository contains MATLAB code for implementing an Audio Equalizer. An audio equalizer is a digital signal processing tool that allows users to adjust the balance between different frequency components in an audio signal.
+
+## Features
+
+- **Graphic Equalizer:** MATLAB implementation of a graphic equalizer with adjustable frequency bands.
+- **Real-time Processing:** Code for real-time audio processing to dynamically adjust the equalizer settings.
+- **Visualization:** Plotting of the frequency response and equalizer settings.
+
+## Getting Started
+
+### Prerequisites
+
+- MATLAB (R2018a or later recommended)
+
+### Usage
+
+1. **Run the Equalizer:**
+   - Open `equalizer.m` in MATLAB.
+   - Modify the audio input source if needed.
+   - Run the script.
+
+2. **Adjust Equalizer Settings:**
+   - Use the provided graphical user interface (GUI) to adjust frequency bands and gain.
