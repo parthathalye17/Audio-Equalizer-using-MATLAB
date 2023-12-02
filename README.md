@@ -19,7 +19,7 @@ This repository contains MATLAB code for implementing an Audio Equalizer. An aud
 
 1. **Run the Equalizer:**
    - Open `equalizer_1.m` in MATLAB.
-   - Modify the audio input source if needed.
+   - Input a .wav audio input source.
    - Run the script.
 
 2. **Adjust Equalizer Settings:**
